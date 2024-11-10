@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables file
+.env
+
+# Executable files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Log files
+*.log
+
+# Render build files
+*.pid
+*.coverage
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
