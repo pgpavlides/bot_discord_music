@@ -23,6 +23,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# OS-specific files
+# OS-specific filesd
 .DS_Store
 Thumbs.db
